@@ -16,6 +16,11 @@ are listed at the bottom of this README.
   Powerful storytelling. A moving talk on a serious subject rarely 
   discussed publicly in the software development industry.
 
+* **[David Beazley](https://github.com/dabeaz)'s
+  [Python Concurrency From the Ground Up: LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4)
+  during PyCon US 2015.** An entirely live coded 
+  talk that inspires and teaches the difficult computer science
+  topic of concurrency.
 
 * **[Gary Bernhardt](https://github.com/garybernhardt)'s 
   [Wat](https://archive.org/details/wat_destroyallsoftware)
