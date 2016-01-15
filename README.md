@@ -100,6 +100,12 @@ are listed at the bottom of this README.
   to improve your programming abilities. Weaves personal stories throughout
   the presentation to bring home the main points.
 
+* *My own* best technical talk: **[Matt Makai](https://github.com/makaimc)'s 
+  [WebSockets in Python](https://www.youtube.com/watch?v=L5YQbNrFfyw) presented 
+  at the SF Python January 2014 meetup.** This is my own favorite technical that 
+  I've given out of my 50+ talks over the past couple of years. The talk has a whole 
+  lot of live coding and audience interaction with the application as I wrote the code.
+
 
 ## Inclusion requirements <a name="inclusion-requirements"></a>
 Developing or designing software must be a major part of his or her gig 
